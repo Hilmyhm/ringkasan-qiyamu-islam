@@ -1,0 +1,6 @@
+{
+  "name": "ملخص مقرر القيم الإسلامية",
+  "description": "عرض تقديمي تفاعلي شامل باللغة العربية يلخص وحدات مقرر القيم الإسلامية السبع مع أقسام قابلة للنقر وتنسيق قرائي مريح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
